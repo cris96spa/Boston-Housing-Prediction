@@ -39,6 +39,10 @@ Visualizations play a pivotal role in this project, offering deep insights into 
 
 ![Clustering Analysis](images/district_cluster_plot.png)
 
+- **Distribution Visualization:** We can also show the distribution of housing prices across different regions.
+
+![California Housing Prices Plot](images/california_housing_prices_plot.png)
+
 These visualizations are not just a supplement to the analysis but are integral to understanding the underlying data, guiding the development and refinement of the predictive models.
 
 
