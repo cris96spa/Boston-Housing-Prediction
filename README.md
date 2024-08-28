@@ -6,7 +6,7 @@ This project aims to predict housing prices in Boston based on various features 
 
 ## Dataset
 
-The Boston Housing Dataset contains information about various attributes of houses in Boston, including the number of rooms, the age of the house, the distance to employment centers, and more. The target variable is the median value of owner-occupied homes.
+The Boston Housing Dataset contains information about various attributes of Boston houses, including the number of rooms, the age of the house, the distance to employment centers, and more. The target variable is the median value of owner-occupied homes.
 
 ## Project Structure
 
@@ -16,7 +16,6 @@ The project is structured into several key sections:
    - This section involves the initial analysis of the dataset to understand the distributions of different features and identify any potential outliers or anomalies.
    - Key visualizations include histograms, scatter plots, and correlation matrices.
 
-   ![Attribute Histogram Plots](images/attribute_histogram_plots.png)
    ![Scatter Matrix Plot](images/scatter_matrix_plot.png)
 
 2. **Data Pre-processing**:
